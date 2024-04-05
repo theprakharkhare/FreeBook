@@ -1,0 +1,17 @@
+127.0.0.1 - - [28/Mar/2024:23:57:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:08 +0530] "GET /Ebook-App/ HTTP/1.1" 200 11684
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:08 +0530] "GET /Ebook-App/book/book2.jpeg HTTP/1.1" 200 13472
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:08 +0530] "GET /Ebook-App/all_component/style.css HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:09 +0530] "GET /Ebook-App/img/book1.jpg HTTP/1.1" 200 273591
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:09 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:11 +0530] "GET /Ebook-App/login.jsp HTTP/1.1" 200 4685
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:29 +0530] "POST /Ebook-App/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:29 +0530] "GET /Ebook-App/admin/home.jsp HTTP/1.1" 200 4389
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:29 +0530] "GET /Ebook-App/admin/style.css HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:34 +0530] "GET /Ebook-App/admin/all_books.jsp HTTP/1.1" 200 3519
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:40 +0530] "GET /Ebook-App/admin/home.jsp HTTP/1.1" 200 4389
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:57:41 +0530] "GET /Ebook-App/admin/add_books.jsp HTTP/1.1" 200 4812
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:58:06 +0530] "POST /Ebook-App/add_books HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:58:06 +0530] "GET /Ebook-App/admin/add_books.jsp HTTP/1.1" 200 4898
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:58:08 +0530] "GET /Ebook-App/admin/home.jsp HTTP/1.1" 200 4389
+0:0:0:0:0:0:0:1 - - [28/Mar/2024:23:58:10 +0530] "GET /Ebook-App/admin/all_books.jsp HTTP/1.1" 200 3981
